@@ -1,1 +1,1 @@
-# CARREIRA-TI
+# Algoritimo e Pensamento computacional
