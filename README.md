@@ -1,1 +1,15 @@
 # Algoritimo e Pensamento computacional
+
+A disciplina Algoritmo e Pensamento Computacional oferece uma formação completa e sistemática para profissionais que desejam dominar a arte e a ciência de resolver problemas computacionais de forma estruturada e eficiente. Esta disciplina foi desenvolvida para capacitar estudantes desde os fundamentos do pensamento lógico até técnicas avançadas de programação, proporcionando as competências essenciais para criar soluções algorítmicas robustas que atendam às demandas tecnológicas contemporâneas.
+
+O curso está organizado em uma progressão lógica que combina fundamentos teóricos sólidos com implementações práticas intensivas. Iniciamos com os fundamentos da programação e pensamento computacional, explorando raciocínio lógico-matemático, características das linguagens de programação e manipulação de dados em linguagem C. A segunda etapa foca nas estruturas de decisão, controle e repetição, desenvolvendo habilidades para criar programas que tomam decisões inteligentes e executam tarefas repetitivas automaticamente.
+
+A terceira unidade aprofunda as estruturas de dados e arquivos, abordando arrays, manipulação de arquivos, funções, modularização e o poderoso conceito de ponteiros. A jornada culmina com algoritmos de ordenação, explorando desde métodos simples como Bubble Sort até técnicas recursivas avançadas como Quick Sort, analisando complexidade e aplicações práticas.
+
+A metodologia adotada enfatiza a aplicação imediata de conceitos através de exercícios práticos, projetos que simulam cenários reais e estudos de caso que demonstram a relevância dos algoritmos no desenvolvimento de sistemas. Cada tópico é apresentado com exemplos concretos, desde a implementação de lógicas simples até o desenvolvimento de sistemas completos de gestão.
+
+A relevância desta disciplina é fundamental no contexto atual, onde algoritmos são a base de todas as inovações tecnológicas. Desde inteligência artificial até sistemas embarcados, desde aplicações móveis até computação em nuvem, o domínio de algoritmos e pensamento computacional determina a capacidade de criar soluções eficientes e escaláveis que impactam diretamente a experiência do usuário e o sucesso de projetos tecnológicos.
+
+Objetivos Gerais:
+
+Desenvolver competências abrangentes em algoritmos e pensamento computacional, capacitando os estudantes a aplicar raciocínio lógico-matemático para resolver problemas computacionais, dominar os fundamentos da linguagem C incluindo estruturas de controle e manipulação de dados, implementar estruturas de dados eficientes e técnicas de modularização de código, analisar e implementar algoritmos de ordenação considerando complexidade e aplicabilidade, e estabelecer fundamentos sólidos para especialização em áreas como desenvolvimento de sistemas, inteligência artificial, computação científica e engenharia de software, preparando profissionais completos para criar soluções algorítmicas eficientes e escaláveis no mercado atual de tecnologia da informação.
